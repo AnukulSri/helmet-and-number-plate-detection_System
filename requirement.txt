@@ -1,0 +1,7 @@
+streamlit==1.24.0
+cv2
+numpy
+os
+pillow
+imutils
+keras
